@@ -1,0 +1,46 @@
+h1{color:darkred;
+font-family:Arial }
+
+p{color: darkslateblue;
+font-family:"Franklin Gothic Heavy"  }
+
+
+h8{color:darkorchid  ;
+font-family: Forte;
+    font-size: 10pt;
+text-align:center;}
+
+ul{color:slateblue;
+font-family: "Bookman Old Style"}
+
+
+h2{
+    color:crimson;
+    font-family: "Bookman Old Style";
+    font-size: larger;
+}
+
+h3 {
+    color: crimson;
+    font-family: "Bookman Old Style";
+}
+
+h4 {
+    color: crimson;
+    font-family: "Bookman Old Style";
+    font-size: larger;
+}
+
+h5 {
+    color: crimson;
+    font-family: "Bookman Old Style";
+    font-size: larger;
+}
+h6{color: crimson;
+    font-family: "Bookman Old Style";
+    font-size: larger;}
+
+a{color: slateblue;
+    font-family: Forte;
+    font-size: larger;
+    text-align: center}
